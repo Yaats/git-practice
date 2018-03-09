@@ -1,0 +1,3 @@
+Name: Billy
+Age: 22
+Favorite color: Grey
